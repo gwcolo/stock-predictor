@@ -1,0 +1,6 @@
+To run the requirements file:
+pip install -r requirements.txt
+
+
+To get the library versions:
+pip list --format=freeze > requirements.txt  
